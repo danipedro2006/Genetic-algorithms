@@ -24,7 +24,7 @@ Use GA to solve maze path finding problem. The programm can ontain optimal solut
 
 ## Screenshots
 GA to solve maze path finding.
-[Click-me!](https://github.com/danipedro2006/Spring-Boot-CRUD-demo-project/blob/master/FRqeKMwI4D.gif)
+[Click-me!](https://github.com/danipedro2006/Genetic-algorithms/blob/master/src/maze%20solving%20GA/Screenshot.bmp)
 
 ## Technologies
 * Java - version 1.8
