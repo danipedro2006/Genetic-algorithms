@@ -22,7 +22,7 @@ Note: In this example, after crossover and mutation, the least fit individual is
 
 
 ## Status
-Project is: under development. 
+* Project is: under development. 
 
 
 ## Contact
