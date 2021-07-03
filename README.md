@@ -19,12 +19,11 @@ Note: In this example, after crossover and mutation, the least fit individual is
 This version use OOP and print in the console fitness score values.
 
 3. GA to solve maze path finding.
-
 Use GA to solve maze path finding problem. The programm can ontain optimal solution (but not necessary) by simulating genetic hibridization and mutation. Rulette algorithm is used for selection.
 
 ## Screenshots
 GA to solve maze path finding.
-[Click-me!](https://github.com/danipedro2006/Genetic-algorithms/blob/master/src/maze%20solving%20GA/Screenshot.bmp)
+[Click-me!](https://github.com/danipedro2006/Genetic-algorithms/blob/master/src/maze%20solving%20GA/Screenshot.gif)
 
 ## Technologies
 * Java - version 1.8
