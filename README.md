@@ -22,7 +22,7 @@ This version use OOP and print in the console fitness score values.
 Use GA to solve maze path finding problem. The program can obtain optimal solution (but not necessary) by simulating genetic hibridization and mutation. Rulette algorithm is used for selection.
 
 ## Screenshots
-GA to solve maze path finding.
+GA to solve maze path finding.  
 <img src=https://github.com/danipedro2006/Genetic-algorithms/blob/master/src/maze%20solving%20GA/Screenshot.gif width="360" height="300">  
 
 ## Technologies
