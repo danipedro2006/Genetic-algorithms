@@ -23,7 +23,7 @@ Use GA to solve maze path finding problem. The program can obtain optimal soluti
 
 ## Screenshots
 GA to solve maze path finding.
-[Click-me!](https://github.com/danipedro2006/Genetic-algorithms/blob/master/src/maze%20solving%20GA/Screenshot.gif)
+<img src=https://github.com/danipedro2006/Genetic-algorithms/blob/master/src/maze%20solving%20GA/Screenshot.gif width="360" height="300">  
 
 ## Technologies
 * Java - version 1.8;
