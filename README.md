@@ -33,7 +33,7 @@ GA to solve maze path finding.
 
 
 ## Status
-* Project is under development. 
+* Project is no longer maintained. 
 
 ## Contact
 Created by @Danisoft Arad 2021(https://danipedro2006.github.io/) - feel free to contact me!
